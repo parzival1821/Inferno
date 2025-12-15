@@ -1,2 +1,2 @@
 # Inferno
-x402 Stress Testing Engine on Avalanche
+x402 Stress Testing Engine on Base
